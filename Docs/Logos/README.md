@@ -1,4 +1,4 @@
-OpenCore Logo
+OpenCore/HackinLoader Logo
 =============
 
 This directory contains OpenCore project official logo. The following
