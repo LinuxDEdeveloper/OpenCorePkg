@@ -12,3 +12,7 @@
 - [macOS86.it](https://macos86.it/topic/1187-opencore-aka-oc-nuovo-bootloader/) in Italian
 - [KVM-OpenCore](https://github.com/Leoyzen/KVM-Opencore) in English, KVM configuration
 - [Reddit](https://www.reddit.com/r/hackintosh) in English
+
+## HackinLoader Discussion Forrums
+
+- Comming Soon
