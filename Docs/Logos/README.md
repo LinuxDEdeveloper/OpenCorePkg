@@ -25,4 +25,4 @@ We would like to express our deep gratitude to
 [Anadea Inc.](http://anadea.info) designing team for their brilliant work
 and extreme patience!
 
-And Thanks acidanthera to OpenCore and logo
+And Thanks acidanthera to make OpenCore and OpenCore logo
