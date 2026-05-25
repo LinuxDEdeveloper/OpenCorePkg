@@ -1,7 +1,7 @@
 OpenCore/HackinLoader Logo
 =============
 
-This directory archive contains OpenCore project and HackinLoader official logo. The following
+This directory archive contains OpenCore logo project and HackinLoader official logo. The following
 formats are supported:
 
 - Sketch source file
