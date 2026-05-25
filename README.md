@@ -1,7 +1,7 @@
 <img src="/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 
 # Project HackinLoader
-## Focked OpenCore Hackintosh Bootloader
+## Forking OpenCore Hackintosh Bootloader
 ### It's currently in the forking process, so if you still see the word "OpenCore," don't worry, because the project is actually being separated from opencorepkg.
 
 OpenCore bootloader with development SDK
