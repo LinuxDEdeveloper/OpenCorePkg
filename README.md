@@ -6,7 +6,7 @@
 
 OpenCore bootloader with development SDK
 
-# WARNNING! This is là project forked form Acidanthera offcial project,please visit him to get last version! [Acidanthera](https://github.com/acidanthera)
+# WARNNING! This is a project forked form Acidanthera offcial project,please visit him to get last version! [Acidanthera](https://github.com/acidanthera)
 
 ## Libraries
 
